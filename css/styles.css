@@ -1,0 +1,75 @@
+.row-header{
+    margin:0px;
+    padding: 0px;
+}
+.row-content{
+    margin: 0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px;
+}
+.footer{
+    background-color:#34383a;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+    color:floralwhite;
+}
+.footer a{
+    color:floralwhite;
+}
+.footer a:hover{
+    text-decoration: none;
+}
+.jumbotron{
+    padding: 70px 30px 70px 30px;
+    margin:0px auto;
+    background: #ffb300;
+    color:#34383a;
+}
+.address{
+    font-size: 80%;
+    margin: 0px;
+    color:#0F0F0F;
+}
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color:#34383a ;
+
+     
+}
+.tab-content {
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+.carousel{
+    background: #523033;
+
+}
+.carousel-item{
+    height: 300px;
+}
+.carousel-item img{
+    position: absolute;
+    top:0;
+    left:0;
+    min-height: 300px;
+}
+.carousel-caption {
+    right: 5%;
+    top:15%;
+    text-align: right;
+    max-width: 500px;
+    left: auto;
+    padding:5px;
+}
+
+
+/* Image source: https://gatherforbread.com/40-insanely-delicious-yeast-bread-recipes/ 
+https://www.stylecraze.com/articles/delicious-egg-and-bread-recipes-to-try-out/#gref
+https://bakingamoment.com/apple-butter-cinnamon-swirl-bread/
+*/
