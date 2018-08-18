@@ -5,6 +5,6 @@ Created UI for a restaurant<br>
   <li>HTML</li>
   <li>CSS</li>
   <li>Bootstrap</li>
-  Demo: https://vedhaperi.github.io/
+# Demo:  https://vedhaperi.github.io/breadcrumbs-restaurant/
 
 
